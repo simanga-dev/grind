@@ -1,0 +1,6 @@
+@Grind.Api_HostAddress = http://localhost:5244
+
+GET {{Grind.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

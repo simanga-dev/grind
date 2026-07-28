@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Grind.Api/Grind.Api.csproj" />
+  <Project Path="Grind.Application/Grind.Application.csproj" />
+  <Project Path="Grind.Domain/Grind.Domain.csproj" />
+  <Project Path="Grind.Infrastructure/Grind.Infrastructure.csproj" />
+</Solution>
