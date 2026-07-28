@@ -1,6 +1,6 @@
-# Comeback
+# Grind
 
-A TikTok-style workout tracker for returning to training after a break.
+TikTok-style workout tracker for returning to training after a break. Swipe through exercises, tap to complete sets, track your grind back to peak form.
 
 ## Stack
 
@@ -14,10 +14,10 @@ A TikTok-style workout tracker for returning to training after a break.
 ```
 src/
 ├── backend/           # .NET 10 API
-│   ├── Comeback.Api/
-│   ├── Comeback.Application/
-│   ├── Comeback.Domain/
-│   └── Comeback.Infrastructure/
+│   ├── Grind.Api/
+│   ├── Grind.Application/
+│   ├── Grind.Domain/
+│   └── Grind.Infrastructure/
 └── frontend/          # SvelteKit app (to be added)
 ```
 
@@ -42,3 +42,4 @@ pnpm dev
 - [ ] Set/rep tracking with tap-to-complete
 - [ ] Progress persistence
 - [ ] 4-week comeback program
+- [ ] Dark gym-friendly UI
